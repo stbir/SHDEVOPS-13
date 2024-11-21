@@ -54,10 +54,8 @@
 **Задача 5**
 ![Task 5 1](https://github.com/user-attachments/assets/3d736753-4728-4e6c-94b0-cb4d9ea4eb6b)
 ![Task5 2](https://github.com/user-attachments/assets/331e1abf-d7fe-48a2-a698-d8fb5e9f0b8d)
-![Task5 2](https://github.com/user-attachments/assets/0b759740-4c07-4cd3-ad22-0d8fe190e09f)
 ![Task5 3](https://github.com/user-attachments/assets/29ae74f2-f611-4536-8363-6c2ce4c02140)
 ![Task5 4](https://github.com/user-attachments/assets/17e86c68-fefa-475a-a592-f9352e236c6a)
 ![Task5 5](https://github.com/user-attachments/assets/23cf9147-ece1-4c7f-9271-0f9d22deb2f3)
 ![Task5 6](https://github.com/user-attachments/assets/64db99c9-0a5f-496c-ac63-5f2e36b2feb2)
-
-
+Видим, что был обнаружен запущенный контецнер, но описание контейнера Portainer было в удалённом файле compose.yaml. можно удалить его с помощью флага --remove- orphans.
